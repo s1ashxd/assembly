@@ -8,6 +8,6 @@
     "skipLibCheck": true
   },
   "include": [
-    "./.idea/src"
+    "./src"
   ]
 }
