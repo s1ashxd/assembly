@@ -35,3 +35,19 @@ write_mem r13, 104
 
 popcnt 80, 80, r10, r11
 ```
+Дамп памяти:
+```xml
+<memory>
+  <cell address="0" value="163" />
+  <cell address="4" value="49930" />
+  <cell address="8" value="524487424" />
+  <cell address="12" value="1259077632" />
+  <cell address="16" value="218103839" />
+  <cell address="20" value="51302" />
+  <cell address="24" value="53358" />
+  <cell address="28" value="93667970" />
+  ...
+  <cell address="100" value="1000" />
+  <cell address="104" value="1000" />
+</memory>
+```
